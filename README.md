@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_GAMBAR_BANNER_ANDA" alt="Banner Utama" width="100%">
+  <img src="banner.mp4" alt="Banner Utama" width="100%">
 </p>
 
 
