@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.mp4" alt="Banner Utama" width="100%">
+  <video src="banner.mp4" width="100%" autoplay loop muted playsinline></video>
 </p>
+
 
 <div align="center">
 
