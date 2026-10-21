@@ -4,14 +4,14 @@
   "version": "10.7.4",
   "description": "veruproject/baileys — WhatsApp Multi-Device library rebased @whiskeysockets/baileys 7.0.0-rc14, using the original libsignal (GPL-3.0) Signal Protocol engine. Maintained by VeruProject. Focus: multimedia WhatsApp bots, low RAM footprint.",
   "license": "MIT",
-  "author": "VeruProject (https://github.com/VeruProject)",
-  "homepage": "https://github.com/VeruProject/baileys#readme",
+  "author": "VeruProject (https://github.com/Verucaa)",
+  "homepage": "https://github.com/Verucaa/baileys#readme",
   "bugs": {
-    "url": "https://github.com/VeruProject/baileys/issues"
+    "url": "https://github.com/Verucaa/baileys/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VeruProject/baileys.git"
+    "url": "git+https://github.com/Verucaa/baileys.git"
   },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
