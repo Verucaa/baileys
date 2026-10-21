@@ -455,8 +455,8 @@ Termasuk unit test buat: JID utils (PN/LID/hosted), Rich WebUI (build + roundtri
 
 ## Kredit
 
-- **[VeruProject](https://github.com/Verucaa)** — maintainer `veruproject/baileys`: rebrand, perawatan berkelanjutan & penyesuaian fokus bot
-- **[RennZz-Dev](https://github.com/RennZSync)** — maintainer `veruproject/baileys`: rebrand, perawatan berkelanjutan & penyesuaian fokus bot
+- **[VeruProject](https://github.com/Verucaa)** — maintainer `veruproject/baileys`: remake, perawatan berkelanjutan & penyesuaian fokus bot
+- **[RennZz-Dev](https://github.com/RennZSync)** — struktur `veruproject/baileys`: Struktur dari baileys
 - **[vinikjkkj/zapo](https://github.com/vinikjkkj/zapo)** — referensi bentuk stanza WhatsApp Web (`type` / `mediatype` / `<biz>`) yang di-port di 10.6.1
 - **[rexxzyid/elaina-baileys](https://github.com/rexxzyid/elaina-baileys)** — sumber `WAProto` hasil generate terbaru yang disinkronkan di 10.7.2
 - **[WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)** — library upstream & wrapper Signal Protocol asli (berbasis `libsignal`)
