@@ -2,7 +2,6 @@
   <img src="banner.mp4" alt="Banner Utama" width="100%">
 </p>
 
-
 <div align="center">
 
 # veruproject/baileys
